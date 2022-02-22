@@ -1,9 +1,18 @@
-### :airplane: 배우고 있는 단계 
+:sparkles:__SKILLS__
+----------------------------
+* <img src="https://img.shields.io/badge/Andoird Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+* <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+</br>
 
+:yellow_heart:LANGUAGE
+-----------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekye26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-> #### KOTLIN & ANDROID STUDIO
->
-> <image src="https://user-images.githubusercontent.com/77138279/107669237-dfe31580-6cd4-11eb-99a0-94018d8484ec.png" height="50"> <image src="https://user-images.githubusercontent.com/77138279/107669254-e3769c80-6cd4-11eb-85b2-35128e329b76.png" height="50">  
+</br>
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekye26&count_bg=%23FFCFCF&title_bg=%23FF4E4E&icon=rootssage.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+:blue_heart:ABOUT ME
+---------------------------
+<a href="https://ekye26@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://ekye26@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
