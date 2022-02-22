@@ -1,7 +1,7 @@
 ### :airplane: 배우고 있는 단계 
 
 
-> #### <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>  &  <img src="https://img.shields.io/badge/Android-Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+> #### <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>  &  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
 >
 > <image src="https://user-images.githubusercontent.com/77138279/107669237-dfe31580-6cd4-11eb-99a0-94018d8484ec.png" height="50"> <image src="https://user-images.githubusercontent.com/77138279/107669254-e3769c80-6cd4-11eb-85b2-35128e329b76.png" height="50">
 
