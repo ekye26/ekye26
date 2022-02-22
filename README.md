@@ -7,6 +7,3 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekye26&count_bg=%23FFCFCF&title_bg=%23FF4E4E&icon=rootssage.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
-
-  [![Notion Badge](https://img.shields.io/badge/Notion-d14836?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/Android-App-Developer-16a5d8c207d04230a1b6642ac0b06b30](https://www.notion.so/Android-App-Developer-16a5d8c207d04230a1b6642ac0b06b30)
-	
